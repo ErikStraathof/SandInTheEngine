@@ -1,26 +1,27 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{6AFA78EF-0499-442C-BA4F-11025FABC6AB}"
+EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SandInTheEngine", "SandInTheEngine\SandInTheEngine.vcxproj", "{5855D26C-3383-4ADD-9FFC-C32DE799DE95}"
 EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
 		Release|x64 = Release|x64
-		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{5855D26C-3383-4ADD-9FFC-C32DE799DE95}.Debug|x64.ActiveCfg = Debug|x64
 		{5855D26C-3383-4ADD-9FFC-C32DE799DE95}.Debug|x64.Build.0 = Debug|x64
-		{5855D26C-3383-4ADD-9FFC-C32DE799DE95}.Debug|x86.ActiveCfg = Debug|Win32
-		{5855D26C-3383-4ADD-9FFC-C32DE799DE95}.Debug|x86.Build.0 = Debug|Win32
 		{5855D26C-3383-4ADD-9FFC-C32DE799DE95}.Release|x64.ActiveCfg = Release|x64
 		{5855D26C-3383-4ADD-9FFC-C32DE799DE95}.Release|x64.Build.0 = Release|x64
-		{5855D26C-3383-4ADD-9FFC-C32DE799DE95}.Release|x86.ActiveCfg = Release|Win32
-		{5855D26C-3383-4ADD-9FFC-C32DE799DE95}.Release|x86.Build.0 = Release|Win32
+		{6AFA78EF-0499-442C-BA4F-11025FABC6AB}.Debug|x64.ActiveCfg = Debug|x64
+		{6AFA78EF-0499-442C-BA4F-11025FABC6AB}.Debug|x64.Build.0 = Debug|x64
+		{6AFA78EF-0499-442C-BA4F-11025FABC6AB}.Release|x64.ActiveCfg = Release|x64
+		{6AFA78EF-0499-442C-BA4F-11025FABC6AB}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
