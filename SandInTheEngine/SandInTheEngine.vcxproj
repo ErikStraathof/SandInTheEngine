@@ -11,8 +11,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\SandInTheEngine.h" />
     <ClInclude Include="src\SandInTheEngine\Application.h" />
     <ClInclude Include="src\SandInTheEngine\Core.h" />
+    <ClInclude Include="src\SandInTheEngine\EntryPoint.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\SandInTheEngine\Application.cpp" />

@@ -1,7 +1,9 @@
 #pragma once
+#include "Core.h"
+
 namespace SandInTheEngine
 {
-	class __declspec(dllexport) Application
+	class SAND_IN_THE_ENGINE_API Application
 	{
 	public:
 		Application();
@@ -9,5 +11,7 @@ namespace SandInTheEngine
 
 		void Run();
 	};
+
+	Application* CreateApplication();
 }
 
