@@ -5,7 +5,6 @@ extern SandInTheEngine::Application* SandInTheEngine::CreateApplication();
 
 int main(int argc, char** argv)
 {
-	printf("Start engine");
 	auto app = SandInTheEngine::CreateApplication();
 	app->Run();
 	delete app;
