@@ -9,4 +9,5 @@ C:\Users\erik7\Projects\SandInTheEngine\SandInTheEngine\src\SandInTheEngine\Debu
       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(1557,7):
       see declaration of 'std::shared_ptr<spdlog::logger>'
   
+  LINK : C:\Users\erik7\Projects\SandInTheEngine\bin\Debug-x64\Sandbox\Sandbox.exe not found or not built by the last incremental link; performing full link
   Sandbox.vcxproj -> C:\Users\erik7\Projects\SandInTheEngine\bin\Debug-x64\Sandbox\Sandbox.exe

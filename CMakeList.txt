@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.10...3.21)
+
+# ---------------------------------------------------------------------------------------
+# Start SandInTheEngine project
+# ---------------------------------------------------------------------------------------
+project(SandInTheEngine VERSION 0.1 LANGUAGES CXX)
+message(STATUS "Build the engine: 0.1")
+
+add_subdirectory(Sandbox)
+add_subdirectory(SandInTheEngine)

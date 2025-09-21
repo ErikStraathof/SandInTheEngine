@@ -9,4 +9,6 @@ C:\Users\erik7\Projects\SandInTheEngine\SandInTheEngine\src\SandInTheEngine\Debu
       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(1557,7):
       see declaration of 'std::shared_ptr<spdlog::logger>'
   
+  LINK : C:\Users\erik7\Projects\SandInTheEngine\bin\Debug-x64\SandInTheEngine\SandInTheEngine.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\erik7\Projects\SandInTheEngine\bin\Debug-x64\SandInTheEngine\SandInTheEngine.lib and object C:\Users\erik7\Projects\SandInTheEngine\bin\Debug-x64\SandInTheEngine\SandInTheEngine.exp
   SandInTheEngine.vcxproj -> C:\Users\erik7\Projects\SandInTheEngine\bin\Debug-x64\SandInTheEngine\SandInTheEngine.dll
